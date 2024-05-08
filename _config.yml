@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "BBo Time"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
+subtitle                 : "공사중중"# site tagline that appears below site title in masthead
+name                     : "Bo Eun Choi"
+description              : "Ta-Da-."
 url                      : "https://BBota-version.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -112,10 +112,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Bo Eun Choi"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "공사중중 **^-^**."
+  location         : "Seoul Korea"
   email            :
   links:
     - label: "Email"
