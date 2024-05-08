@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 locale                   : "en-US"
 title                    : "BBo Time"
 title_separator          : "-"
-subtitle                 : "공사중중"# site tagline that appears below site title in masthead
+subtitle                 : "공사중"# site tagline that appears below site title in masthead
 name                     : "Bo Eun Choi"
 description              : "Ta-Da-."
 url                      : "https://BBota-version.github.io"
@@ -114,7 +114,7 @@ analytics:
 author:
   name             : "Bo Eun Choi"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "공사중중 **^-^**."
+  bio              : "싱기방기 **^-^**."
   location         : "Seoul Korea"
   email            :
   links:
